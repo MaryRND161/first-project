@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'EB Garamond';
+  src:
+    url(./ebgaramondmedium.woff2) format('woff2'),
+    url(./ebgaramondmedium.woff) format ('woff'),
+    url(./ebgaramondmedium.ttf) format ('ttf');
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src:
+    url(./ebgaramondregular.woff2) format('woff2'),
+    url(./ebgaramondregular.woff) format ('woff'),
+    url(./ebgaramondregular.ttf) format ('ttf');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src:
+    url(/s-chistogo-lista-main/fonts/interbold.woff2) format ('woff2'),
+    url(/s-chistogo-lista-main/fonts/interbold.woff) format ('woff'),
+    url(/s-chistogo-lista-main/fonts/interbold.ttf) format ('ttf');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src:
+    url(/s-chistogo-lista-main/fonts/interregular.woff2) format ('woff2'),
+    url(/s-chistogo-lista-main/fonts/interregular.woff) format ('woff'),
+    url(/s-chistogo-lista-main/fonts/interregular.ttf) format ('ttf');
+  font-weight: 400;
+  font-display: swap;
+}
